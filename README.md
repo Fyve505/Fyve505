@@ -20,7 +20,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&lines=What??+No!!!.)
 
 --- Stats [START] ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fyve505)](https://github.com/Fyve505/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fyve505&theme=discord)](https://github-profile-trophy.vercel.app/?username=Fyve505&theme=discord)
 
 <!-- New stats added -->
 ![Five_2357's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Fyve505&theme=tokyonight)
