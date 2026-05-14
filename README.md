@@ -7,7 +7,7 @@
 
 ## Websites:
 </a>
-<a href="https://blue-cube-5.vercel.app/" title="BlueCube">
+<a href="https://bluecube.pages.dev/" title="BlueCube">
   <img src="https://bluecube.pages.dev/favicon.ico" alt="BlueCube" width="50"/>
 <a href="https://quiq.vercel.app/" title="Quiq">
   <img src="https://quiq.vercel.app/favicon.png" alt="Quiq" width="50"/>
