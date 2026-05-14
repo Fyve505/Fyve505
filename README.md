@@ -20,13 +20,13 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&lines=What??+No!!!.)
 
 --- Stats [START] ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=five-505)](https://github.com/five-2357/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=five-505)](https://github.com/Fyve505/github-profile-trophy)
 
-![five-2357](https://github-readme-stats.vercel.app/api?username=five-505&show_icons=true&theme=tokyonight&hide=["issues"])
+![five-2357](https://github-readme-stats.vercel.app/api?username=Fyve505&show_icons=true&theme=tokyonight&hide=["issues"])
 
-![five-2357](https://github-readme-stats.vercel.app/api/top-langs?username=five-505&show_icons=true&theme=tokyonight&layout=compact)
+![five-2357](https://github-readme-stats.vercel.app/api/top-langs?username=Fyve505&show_icons=true&theme=tokyonight&layout=compact)
 
 <!-- New stats added -->
-![Five_2357's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=five-505&theme=tokyonight)
+![Five_2357's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Fyve505&theme=tokyonight)
 
 --- Stats [END] ---
