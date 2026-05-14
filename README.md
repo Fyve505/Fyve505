@@ -5,6 +5,8 @@
   <img src="https://raw.githubusercontent.com/Five-505/five-505/refs/heads/main/Fake-Verifed.png" alt="This is a Fake Verifed Icon." width="25""/>
 </h2>
 
+[![badge](https://github.com/Fyve505/BlueCube/blob/main/Stuff/Badge1.svg)](https://github.com/Five-2357/BlueCube/)
+
 ## Websites:
 </a>
 <a href="https://bluecube.pages.dev/" title="BlueCube">
