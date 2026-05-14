@@ -22,10 +22,6 @@
 --- Stats [START] ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fyve505)](https://github.com/Fyve505/github-profile-trophy)
 
-![five-2357](https://github-readme-stats.vercel.app/api?username=Fyve505&show_icons=true&theme=tokyonight&hide=["issues"])
-
-![five-2357](https://github-readme-stats.vercel.app/api/top-langs?username=Fyve505&show_icons=true&theme=tokyonight&layout=compact)
-
 <!-- New stats added -->
 ![Five_2357's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Fyve505&theme=tokyonight)
 
